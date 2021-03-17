@@ -14,7 +14,7 @@ First off, thank you for taking the time to contribute! :+1: :tada:
 * [Source Code Style](#source-code-style)
 * [Reference Docs](#reference-docs)
 
-### Code of Conduct
+### Code of Conduct woaini
 
 This project is governed by the [Spring Code of Conduct](CODE_OF_CONDUCT.adoc).
 By participating you are expected to uphold this code.
